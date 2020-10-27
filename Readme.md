@@ -31,7 +31,7 @@ Repositório dedicado a guardar os desafios realizados no Bootcamp GoStack.
 
 ## :book: Desafios
 
-- [Desafio 01 - Conceitos de node.js](/desafio-01)
+- [Desafio 01 - Conceitos de node.js](/desafio-conceitos-node)
 
 <br>
 
