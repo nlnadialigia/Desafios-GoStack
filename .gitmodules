@@ -1,3 +1,6 @@
 [submodule "desafio-conceitos-node"]
 	path = desafio-conceitos-node
 	url = https://github.com/nlnadialigia/desafio-conceitos-node.git
+[submodule "desafio-conceitos-reactjs"]
+	path = desafio-conceitos-reactjs
+	url = https://github.com/nlnadialigia/desafio-conceitos-reactjs.git
