@@ -7,3 +7,6 @@
 [submodule "desafio-conceitos-react-native"]
 	path = desafio-conceitos-react-native
 	url = https://github.com/nlnadialigia/desafio-conceitos-react-native.git
+[submodule "desafio-fundamentos-nodejs"]
+	path = desafio-fundamentos-nodejs
+	url = https://github.com/nlnadialigia/desafio-fundamentos-nodejs.git
