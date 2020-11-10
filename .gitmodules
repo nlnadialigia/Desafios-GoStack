@@ -10,3 +10,6 @@
 [submodule "desafio-fundamentos-nodejs"]
 	path = desafio-fundamentos-nodejs
 	url = https://github.com/nlnadialigia/desafio-fundamentos-nodejs.git
+[submodule "gostack-template-typeorm-upload"]
+	path = gostack-template-typeorm-upload
+	url = https://github.com/nlnadialigia/gostack-template-typeorm-upload.git
