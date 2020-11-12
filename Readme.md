@@ -41,6 +41,13 @@ Repositório dedicado a guardar os desafios realizados no Bootcamp GoStack.
 
 <br>
 
+## :rocket: Tecnologias
+
+- [NodeJS](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJs](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev)
+
 ## Licença 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
