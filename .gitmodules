@@ -19,3 +19,6 @@
 [submodule "desafio-fundamentos-react-native"]
 	path = desafio-fundamentos-react-native
 	url = https://github.com/nlnadialigia/desafio-fundamentos-react-native.git
+[submodule "desafio-typeorm-relations"]
+	path = desafio-typeorm-relations
+	url = https://github.com/nlnadialigia/desafio-typeorm-relations.git
