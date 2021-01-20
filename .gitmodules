@@ -22,3 +22,9 @@
 [submodule "desafio-typeorm-relations"]
 	path = desafio-typeorm-relations
 	url = https://github.com/nlnadialigia/desafio-typeorm-relations.git
+[submodule "desafio-reactjs-crud"]
+	path = desafio-reactjs-crud
+	url = https://github.com/nlnadialigia/desafio-reactjs-crud.git
+[submodule "desafio-react-native-delivery"]
+	path = desafio-react-native-delivery
+	url = https://github.com/nlnadialigia/desafio-react-native-delivery.git
